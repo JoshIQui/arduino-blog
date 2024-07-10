@@ -12,7 +12,7 @@ template.innerHTML = `
 
   <div class="navbar-menu" id="nav-links">
     <div class="navbar-start">
-      <a class="navbar-item has-text-white" href="home.html" id="home">
+      <a class="navbar-item has-text-white" href="index.html" id="home">
         Home
       </a>
     
